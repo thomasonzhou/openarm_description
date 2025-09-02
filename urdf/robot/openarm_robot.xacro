@@ -31,8 +31,8 @@
             left_arm_base_xyz='0 0 0'
             right_arm_base_rpy='0 0 0'
             left_arm_base_rpy='0 0 0'
-            left_can_interface:='can1'
-            right_can_interface:='can0'
+            left_can_interface:='can0'
+            right_can_interface:='can1'
             left_arm_prefix:='left_'
             right_arm_prefix:='right_'
             "
